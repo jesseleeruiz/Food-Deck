@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		8019B8C6256F0567001E976C /* Appetizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8019B8C5256F0567001E976C /* Appetizer.swift */; };
 		8019B8C9256F2317001E976C /* AppetizerListCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8019B8C8256F2317001E976C /* AppetizerListCell.swift */; };
+		8019B8CC25747A22001E976C /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8019B8CB25747A22001E976C /* NetworkManager.swift */; };
+		8019B8CF25747B04001E976C /* FDError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8019B8CE25747B04001E976C /* FDError.swift */; };
 		801DB84F2565F71000CEAF0D /* Food_DeckApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 801DB84E2565F71000CEAF0D /* Food_DeckApp.swift */; };
 		801DB8512565F71000CEAF0D /* AppetizerTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 801DB8502565F71000CEAF0D /* AppetizerTabView.swift */; };
 		801DB8532565F71600CEAF0D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 801DB8522565F71600CEAF0D /* Assets.xcassets */; };
@@ -21,6 +23,8 @@
 /* Begin PBXFileReference section */
 		8019B8C5256F0567001E976C /* Appetizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Appetizer.swift; sourceTree = "<group>"; };
 		8019B8C8256F2317001E976C /* AppetizerListCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerListCell.swift; sourceTree = "<group>"; };
+		8019B8CB25747A22001E976C /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
+		8019B8CE25747B04001E976C /* FDError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FDError.swift; sourceTree = "<group>"; };
 		801DB84B2565F71000CEAF0D /* Food Deck.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Food Deck.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		801DB84E2565F71000CEAF0D /* Food_DeckApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Food_DeckApp.swift; sourceTree = "<group>"; };
 		801DB8502565F71000CEAF0D /* AppetizerTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerTabView.swift; sourceTree = "<group>"; };
@@ -72,6 +76,8 @@
 				801DB8642566000000CEAF0D /* OrderView.swift */,
 				8019B8C5256F0567001E976C /* Appetizer.swift */,
 				8019B8C8256F2317001E976C /* AppetizerListCell.swift */,
+				8019B8CB25747A22001E976C /* NetworkManager.swift */,
+				8019B8CE25747B04001E976C /* FDError.swift */,
 			);
 			path = "Food Deck";
 			sourceTree = "<group>";
@@ -155,8 +161,10 @@
 			files = (
 				8019B8C6256F0567001E976C /* Appetizer.swift in Sources */,
 				8019B8C9256F2317001E976C /* AppetizerListCell.swift in Sources */,
+				8019B8CF25747B04001E976C /* FDError.swift in Sources */,
 				801DB8622565FFF500CEAF0D /* AccountView.swift in Sources */,
 				801DB8512565F71000CEAF0D /* AppetizerTabView.swift in Sources */,
+				8019B8CC25747A22001E976C /* NetworkManager.swift in Sources */,
 				801DB84F2565F71000CEAF0D /* Food_DeckApp.swift in Sources */,
 				801DB85F2565FFE600CEAF0D /* AppetizerListView.swift in Sources */,
 				801DB8652566000000CEAF0D /* OrderView.swift in Sources */,
