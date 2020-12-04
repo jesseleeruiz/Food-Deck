@@ -19,6 +19,7 @@
 		801DB8622565FFF500CEAF0D /* AccountView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 801DB8612565FFF500CEAF0D /* AccountView.swift */; };
 		801DB8652566000000CEAF0D /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 801DB8642566000000CEAF0D /* OrderView.swift */; };
 		80966C4C257ACD8E0083DC86 /* AppetizerListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80966C4B257ACD8E0083DC86 /* AppetizerListViewModel.swift */; };
+		80966C50257AD0390083DC86 /* Alert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80966C4F257AD0390083DC86 /* Alert.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		801DB8612565FFF500CEAF0D /* AccountView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountView.swift; sourceTree = "<group>"; };
 		801DB8642566000000CEAF0D /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
 		80966C4B257ACD8E0083DC86 /* AppetizerListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerListViewModel.swift; sourceTree = "<group>"; };
+		80966C4F257AD0390083DC86 /* Alert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alert.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				8019B8CB25747A22001E976C /* NetworkManager.swift */,
 				8019B8CE25747B04001E976C /* FDError.swift */,
 				80966C4B257ACD8E0083DC86 /* AppetizerListViewModel.swift */,
+				80966C4F257AD0390083DC86 /* Alert.swift */,
 			);
 			path = "Food Deck";
 			sourceTree = "<group>";
@@ -170,6 +173,7 @@
 				801DB8512565F71000CEAF0D /* AppetizerTabView.swift in Sources */,
 				8019B8CC25747A22001E976C /* NetworkManager.swift in Sources */,
 				801DB84F2565F71000CEAF0D /* Food_DeckApp.swift in Sources */,
+				80966C50257AD0390083DC86 /* Alert.swift in Sources */,
 				801DB85F2565FFE600CEAF0D /* AppetizerListView.swift in Sources */,
 				801DB8652566000000CEAF0D /* OrderView.swift in Sources */,
 			);
