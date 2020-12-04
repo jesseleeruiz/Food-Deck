@@ -18,6 +18,7 @@
 		801DB85F2565FFE600CEAF0D /* AppetizerListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 801DB85E2565FFE600CEAF0D /* AppetizerListView.swift */; };
 		801DB8622565FFF500CEAF0D /* AccountView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 801DB8612565FFF500CEAF0D /* AccountView.swift */; };
 		801DB8652566000000CEAF0D /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 801DB8642566000000CEAF0D /* OrderView.swift */; };
+		80966C4C257ACD8E0083DC86 /* AppetizerListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80966C4B257ACD8E0083DC86 /* AppetizerListViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		801DB85E2565FFE600CEAF0D /* AppetizerListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerListView.swift; sourceTree = "<group>"; };
 		801DB8612565FFF500CEAF0D /* AccountView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountView.swift; sourceTree = "<group>"; };
 		801DB8642566000000CEAF0D /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
+		80966C4B257ACD8E0083DC86 /* AppetizerListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerListViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 				8019B8C8256F2317001E976C /* AppetizerListCell.swift */,
 				8019B8CB25747A22001E976C /* NetworkManager.swift */,
 				8019B8CE25747B04001E976C /* FDError.swift */,
+				80966C4B257ACD8E0083DC86 /* AppetizerListViewModel.swift */,
 			);
 			path = "Food Deck";
 			sourceTree = "<group>";
@@ -162,6 +165,7 @@
 				8019B8C6256F0567001E976C /* Appetizer.swift in Sources */,
 				8019B8C9256F2317001E976C /* AppetizerListCell.swift in Sources */,
 				8019B8CF25747B04001E976C /* FDError.swift in Sources */,
+				80966C4C257ACD8E0083DC86 /* AppetizerListViewModel.swift in Sources */,
 				801DB8622565FFF500CEAF0D /* AccountView.swift in Sources */,
 				801DB8512565F71000CEAF0D /* AppetizerTabView.swift in Sources */,
 				8019B8CC25747A22001E976C /* NetworkManager.swift in Sources */,
